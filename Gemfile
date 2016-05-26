@@ -20,6 +20,8 @@ gem 'omniauth-facebook'
 gem 'devise'
 gem 'gibbon'
 gem 'quiet_assets'
+gem 'judge'
+gem 'judge-simple_form'
 group :development do
   gem 'web-console'
   gem 'spring'
